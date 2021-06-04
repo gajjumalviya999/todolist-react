@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+}
+.headDiv{
+    width: 100%;
+    font-size: 20px;
+    background-color: black;
+    text-align: center;
+    color:white;
+}
